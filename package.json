@@ -1,0 +1,26 @@
+{
+  "name": "nice-place-for-coding",
+  "version": "0.0.0",
+  "description": "A list of nice places for coding in major cities of China",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akfish/nice-place-for-coding.git"
+  },
+  "keywords": [
+    "metadata"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/akfish/nice-place-for-coding/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "coffee-script": "~1.9.1",
+    "nice-place-for-coding-parser": "0.0.1",
+    "gulp-tap": "~0.1.3"
+  }
+}
